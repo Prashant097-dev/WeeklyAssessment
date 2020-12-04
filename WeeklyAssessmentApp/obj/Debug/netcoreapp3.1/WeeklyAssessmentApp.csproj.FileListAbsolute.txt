@@ -111,3 +111,4 @@ D:\DOTNETCORE\Apps by VS\WeeklyAssessmentApp\WeeklyAssessmentApp\obj\Debug\netco
 D:\DOTNETCORE\Apps by VS\WeeklyAssessmentApp\WeeklyAssessmentApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
 D:\DOTNETCORE\Apps by VS\WeeklyAssessmentApp\WeeklyAssessmentApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
 D:\DOTNETCORE\Apps by VS\WeeklyAssessmentApp\WeeklyAssessmentApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\DOTNETCORE\Apps by VS\WeeklyAssessmentApp\WeeklyAssessmentApp\obj\Debug\netcoreapp3.1\Razor\Views\Students\Display.cshtml.g.cs

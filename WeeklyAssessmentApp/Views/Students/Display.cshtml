@@ -4,13 +4,13 @@
     ViewData["Title"] = "Display";
 }
 
-<h1>Display</h1>
-<h3>Total Number of Students : @ViewBag.nos</h3>
 
+<h2 class="bg-primary text-white">Total Number of Students : @ViewBag.nos</h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbHkgpwDc0wEEU47Tn3vv4aoeq8Pd99K5hfA&usqp=CAU"  height="300" width="300"/>
 
-<table class="table">
-    <thead>
-        <tr>
+<table class="table table-bordered">
+    <thead class="thead-dark">
+        <tr class="table-primary">
             <th>
                 @Html.DisplayNameFor(model => model.Id)
             </th>
@@ -28,7 +28,7 @@
     </thead>
     <tbody>
 @foreach (var item in Model) {
-        <tr>
+        <tr class="table-success">
             <td>
                 @Html.DisplayFor(modelItem => item.Id)
             </td>
